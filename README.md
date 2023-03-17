@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Theme Switcher React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple ReactJS Web Application to switch themes(Light & Dark) across all the components in the app with a toggle-switch button.
+
+![Deployment Status](https://img.shields.io/badge/Current%20Deployment%20Status%20Of%20Theme%20Switcher%20App%20At-BEF9C6) [![Netlify](https://api.netlify.com/api/v1/badges/67e0c475-8288-4740-aa22-07484a7d5da6/deploy-status)](https://app.netlify.com/sites/04-theme-switcher/deploys)
+
+[![Live Link](https://img.shields.io/badge/Theme%20Switcher%20App-Live%20Link%20-greygreen)](https://04-theme-switcher.netlify.app/)
+
+#
 
 ## Available Scripts
 
