@@ -74,3 +74,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#
+
+[🔼 Back to top](https://github.com/SidP919/ReactJS-Practice-Project-04-Theme_Switcher#readme)
+
+#
+
+Developed By:
+
+**Sidharth Pandey**
+
+[![Email](https://img.shields.io/badge/Email-6EC72D)](mailto:Sidp0008@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B98F5)](https://linkedin.com/in/sidp919)
+
+**Happy Learning!** ☺️
